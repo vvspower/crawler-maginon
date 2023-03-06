@@ -26,7 +26,7 @@ class MaginonCrawlerSpider(scrapy.Spider):
             link = a.extract()
             if '/collections/' in link:
                 category_name = link.split('/')[-1]
-                print(category_name)
+                # print(category_name)
                 yield response.follow(link, callback=self.parse_collection, meta={'category': category_name})
 
     def parse_collection(self, response):
@@ -36,19 +36,37 @@ class MaginonCrawlerSpider(scrapy.Spider):
             if '/products/' in link:
                 model_name = link.split('/')[-1]
                 category_name = response.meta['category']
-
+            
                 product_data = {
                 'model': model_name,
                 'category': category_name
                 }
             
-                yield product_data
-                
+                yield response.follow(link, callback=self.find_manual, meta={'product_data': product_data})
 
-        
-        
-        # print(response)
-        
+    def find_manual(self, response):
+        for a in response.xpath('//a/text()'):
+            link = a.extract()
+            if "https://downloads.maginon.de" in link:
+                print(link)
+                
+                yield response.follow(link, callback=self.parse_manual, meta={'product_data': response.meta['product_data']})
+
+
+    def parse_manual(self, response):
+        pdf_links = []
+        product_data = response.meta["product_data"]
+        for a in response.xpath('//a[@href]/@href'):
+            link = a.extract()
+            if link.endswith(".pdf"):
+                pdf_links.append(link)
+                
+            product_data["links"] = pdf_links
+               
+            
+
+        yield product_data
+
 
                 
         

@@ -1,1330 +1,319 @@
 [
 {
-    "model": "b-ware-ecovacs-deebot-u2-pro-100763",
-    "category": "b-ware"
-},
-{
-    "model": "b-ware-ecovacs-deebot-u2-pro-100763",
-    "category": "b-ware"
-},
-{
-    "model": "b-ware-quadrokopter-qc-120-gps",
-    "category": "b-ware"
-},
-{
-    "model": "b-ware-quadrokopter-qc-120-gps",
-    "category": "b-ware"
-},
-{
-    "model": "b-ware-quadrokopter-qc-90-gps-faltbare-drohne-mit-gps-1",
-    "category": "b-ware"
-},
-{
-    "model": "b-ware-quadrokopter-qc-90-gps-faltbare-drohne-mit-gps-1",
-    "category": "b-ware"
+    "model": "ferngesteuertes-auto-rcc-1a-100829",
+    "category": "vendors?q=Maginon",
+    "links": [
+        "https://downloads.maginon.de/download/ferngesteuertes-auto-rcc-1a/?wpdmdl=3756&refresh=6406248f117cf1678124175&ind=1660739453792&filename=Maginon_IM_RCC-1A_DE-OS.pdf",
+        "https://downloads.maginon.de/download/ferngesteuertes-auto-rcc-1a/?wpdmdl=3756&refresh=6406248f117cf1678124175&ind=1660739505586&filename=DB_supra_RCC-1A_Ferngesteuertes Auto.pdf",
+        "https://downloads.maginon.de/download/ferngesteuertes-auto-rcc-1a/?wpdmdl=3756&refresh=6406248f117cf1678124175&ind=1658156155543&filename=EG-Konformitätserklärung_RCC-1A.pdf",
+        "https://downloads.maginon.de/download/ferngesteuertes-auto-rcc-1a/?wpdmdl=3756&refresh=6406248f117cf1678124175&ind=1658156154438&filename=EU_Declaration_RCC-1A_EN.pdf",
+        "https://downloads.maginon.de/download/ferngesteuertes-auto-rcc-1a/?wpdmdl=3756&refresh=6406248f117cf1678124175&ind=1658156155168&filename=EU_Declaration_RCC-1A_SL.pdf",
+        "https://downloads.maginon.de/download/ferngesteuertes-auto-rcc-1a/?wpdmdl=3756&refresh=6406248f117cf1678124175&ind=1658156154803&filename=EU_Declaration_RCC-1A_IT.pdf"
+    ]
 },
 {
     "model": "quadrokopter-qc-700-se-wifi-100681",
-    "category": "b-ware"
+    "category": "b-ware",
+    "links": [
+        "https://downloads.maginon.de/download/quadrokopter-qc-700se-wifi/?wpdmdl=3620&refresh=6406248eb21e71678124174&ind=1652881371811&filename=IM_QC-700SE.pdf",
+        "https://downloads.maginon.de/download/quadrokopter-qc-700se-wifi/?wpdmdl=3620&refresh=6406248eb21e71678124174&ind=1652881430925&filename=DB_QC-700SE.pdf",
+        "https://downloads.maginon.de/download/quadrokopter-qc-700se-wifi/?wpdmdl=3620&refresh=6406248eb21e71678124174&ind=1616058418487&filename=EG-Konformitätserklärung_QC-700SE.pdf",
+        "https://downloads.maginon.de/download/quadrokopter-qc-700se-wifi/?wpdmdl=3620&refresh=6406248eb21e71678124174&ind=1616058418900&filename=EU_declaration_QC-700SE_DK.pdf",
+        "https://downloads.maginon.de/download/quadrokopter-qc-700se-wifi/?wpdmdl=3620&refresh=6406248eb21e71678124174&ind=1616058419347&filename=EU_declaration_QC-700SE_EN.pdf"
+    ]
 },
 {
-    "model": "quadrokopter-qc-700-se-wifi-100681",
-    "category": "b-ware"
+    "model": "quadrokopter-qc-800-se-wifi-100752",
+    "category": "drohnen",
+    "links": [
+        "https://downloads.maginon.de/download/drohne-quadrocopter-qc-800se-wifi/?wpdmdl=3754&refresh=6406248f6070c1678124175&ind=1658485511702&filename=Maginon_IM_QC-800SE_WiFi_A6_HD_OS_06-2022_v2.04_280322_OS.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrocopter-qc-800se-wifi/?wpdmdl=3754&refresh=6406248f6070c1678124175&ind=1658485255275&filename=DB_supra_QC-800SE_Drohne_v.1.7_240322.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrocopter-qc-800se-wifi/?wpdmdl=3754&refresh=6406248f6070c1678124175&ind=1657637662270&filename=EG-Konformitätserklärung_QC-800SE.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrocopter-qc-800se-wifi/?wpdmdl=3754&refresh=6406248f6070c1678124175&ind=1657637662677&filename=EU_Declaration_QC-800SE_EN.pdf"
+    ]
 },
 {
-    "model": "mini-massage-pistole-mmp-1-100746",
-    "category": "sale"
-},
-{
-    "model": "mini-massage-pistole-mmp-1-100746",
-    "category": "sale"
-},
-{
-    "model": "wildkamera-wk-30-hd-100108",
-    "category": "sale"
-},
-{
-    "model": "wildkamera-wk-30-hd-100108",
-    "category": "sale"
-},
-{
-    "model": "nachtsichtgerat-maginon-nvb-60-100272",
-    "category": "sale"
-},
-{
-    "model": "nachtsichtgerat-maginon-nvb-60-100272",
-    "category": "sale"
-},
-{
-    "model": "mesh-repeater-mc-1200ac-100709",
-    "category": "sale"
-},
-{
-    "model": "mesh-repeater-mc-1200ac-100709",
-    "category": "sale"
-},
-{
-    "model": "md-1140-metalldetektor-100384",
-    "category": "sale"
-},
-{
-    "model": "md-1140-metalldetektor-100384",
-    "category": "sale"
-},
-{
-    "model": "plattenspieler-hs-t08",
-    "category": "sale"
-},
-{
-    "model": "plattenspieler-hs-t08",
-    "category": "sale"
-},
-{
-    "model": "st-1-ql-sterilizer-fuer-smartphones-100648",
-    "category": "sale"
-},
-{
-    "model": "st-1-ql-sterilizer-fuer-smartphones-100648",
-    "category": "sale"
-},
-{
-    "model": "maginon-wlr-753-ac-100419",
-    "category": "sale"
-},
-{
-    "model": "maginon-wlr-753-ac-100419",
-    "category": "sale"
-},
-{
-    "model": "vorderreifen-fur-den-e-scooter-streetone-100569",
-    "category": "sale"
-},
-{
-    "model": "vorderreifen-fur-den-e-scooter-streetone-100569",
-    "category": "sale"
-},
-{
-    "model": "maginon-wlr-755-ac-100409",
-    "category": "sale"
-},
-{
-    "model": "maginon-wlr-755-ac-100409",
-    "category": "sale"
-},
-{
-    "model": "ferngesteuertes-auto-rcc-1a-100829",
-    "category": "sale"
-},
-{
-    "model": "ferngesteuertes-auto-rcc-1a-100829",
-    "category": "sale"
-},
-{
-    "model": "hl-90mr-led-100209",
-    "category": "sale"
-},
-{
-    "model": "hl-90mr-led-100209",
-    "category": "sale"
-},
-{
-    "model": "digitales-mikroskop-dm-300-100739",
-    "category": "sale"
-},
-{
-    "model": "digitales-mikroskop-dm-300-100739",
-    "category": "sale"
-},
-{
-    "model": "aroma-diffusor-ad-300",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "akku-quadrokopter-qc-800se-100761",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "akku-quadrokopter-qc-800se-100761",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "rotorblatter-fur-quadrokopter-qc-800se-kit",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "rotorblatter-fur-quadrokopter-qc-800se-kit",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "aroma-diffusor-ad-300",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "b-ware-ecovacs-deebot-u2-pro-100763",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "b-ware-ecovacs-deebot-u2-pro-100763",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "b-ware-quadrokopter-qc-120-gps",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "b-ware-quadrokopter-qc-120-gps",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "quadrokopter-qc-700-se-wifi-100681",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "quadrokopter-qc-700-se-wifi-100681",
-    "category": "vendors?q=Maginon"
+    "model": "ruckfahrkamera-rc-300ws-100662",
+    "category": "heimtechnik",
+    "links": [
+        "https://downloads.maginon.de/download/rueckfahrkamera-mit-solar-panel/?wpdmdl=3603&refresh=6406248f740931678124175&ind=1677656880074&filename=Maginon_IM_RC-300WS_A6_Home_Delivery_v1.00_290922_os.pdf",
+        "https://downloads.maginon.de/download/rueckfahrkamera-mit-solar-panel/?wpdmdl=3603&refresh=6406248f740931678124175&ind=1677656977556&filename=DB_Maginon_RC-300WS_EU_Rueckfahrkamera_v1.3.pdf",
+        "https://downloads.maginon.de/download/rueckfahrkamera-mit-solar-panel/?wpdmdl=3603&refresh=6406248f740931678124175&ind=1640079368698&filename=1640079368wpdm_EG-Konformitätserklärung_RC-300WS.pdf",
+        "https://downloads.maginon.de/download/rueckfahrkamera-mit-solar-panel/?wpdmdl=3603&refresh=6406248f740931678124175&ind=1640079369307&filename=1640079369wpdm_EU_declaration_RC-300WS_EN.pdf",
+        "https://downloads.maginon.de/download/rueckfahrkamera-mit-solar-panel/?wpdmdl=3603&refresh=6406248f740931678124175&ind=1640079368133&filename=1640079367wpdm_EU_declaration_RC-300WS_NL.pdf",
+        "https://downloads.maginon.de/download/rueckfahrkamera-mit-solar-panel/?wpdmdl=3603&refresh=6406248f740931678124175&ind=1640079367574&filename=EU_declaration_RC-300WS_FR.pdf"
+    ]
 },
 {
     "model": "b-ware-quadrokopter-qc-90-gps-faltbare-drohne-mit-gps-1",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "b-ware-quadrokopter-qc-90-gps-faltbare-drohne-mit-gps-1",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "bluetooth-kopfhorer-bth-4",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "bluetooth-kopfhorer-bth-4",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "digitales-mikroskop-dm-300-100739",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "digitales-mikroskop-dm-300-100739",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-akku-drohne-qc-120-gps-100711",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-akku-drohne-qc-120-gps-100711",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-707se-wifi-100743",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-707se-wifi-100743",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "ersatz-akku-drohne-qc-120-gps-100711",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "ersatz-akku-drohne-qc-120-gps-100711",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-120-gps-100713",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-120-gps-100713",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-120-gps-100712",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-120-gps-100712",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "maginon-akku-fur-qc-90-gps-100541",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "maginon-akku-fur-qc-90-gps-100541",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "maginon-rotoren-fur-qc-90-gps-100542",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "maginon-rotoren-fur-qc-90-gps-100542",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "fernbedienung-fur-maginon-drohne-qc-90-gps-100543",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "fernbedienung-fur-maginon-drohne-qc-90-gps-100543",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "fernbedienung-zu-maginon-qc-70-se-wifi",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "fernbedienung-zu-maginon-qc-70-se-wifi",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "maginon-akku-3er-fur-drohne-100535",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "maginon-akku-fur-drohnen-100533",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "maginon-akku-fur-drohnen-100533",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "maginon-akku-2er-fur-drohnen-100534",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "maginon-akku-2er-fur-drohnen-100534",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "maginon-akku-3er-fur-drohne-100535",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "maginon-akku-3er-fur-drohne-100535",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "maginon-akku-fur-qc-90-gps-100541",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "maginon-akku-fur-qc-90-gps-100541",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "akku-quadrokopter-qc-800se-100761",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "akku-quadrokopter-qc-800se-100761",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-120-gps-100713",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-120-gps-100713",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-707se-wifi-100743",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-707se-wifi-100743",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "fernbedienung-fur-maginon-drohne-qc-90-gps-100543",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "fernbedienung-fur-maginon-drohne-qc-90-gps-100543",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "maginon-akku-3er-fur-drohne-100535",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "maginon-akku-2er-fur-drohnen-100534",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "maginon-akku-2er-fur-drohnen-100534",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "maginon-akku-fur-drohnen-100533",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "maginon-akku-fur-drohnen-100533",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "maginon-carrying-case-drohne-100536",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "fernbedienung-zu-maginon-qc-70-se-wifi",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "maginon-carrying-case-drohne-100536",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-707se-wifi-100742",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-707se-wifi-100742",
-    "category": "drohnen-zubehor"
-},
-{
-    "model": "fernbedienung-zu-maginon-qc-70-se-wifi",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-120-gps-100712",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-120-gps-100712",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-707se-wifi-100742",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-707se-wifi-100742",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-rotorenblatter-maginon-drohne-100576",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ersatz-rotorenblatter-maginon-drohne-100576",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "maginon-rotoren-fur-qc-90-gps-100542",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "maginon-rotoren-fur-qc-90-gps-100542",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "rotorblatter-fur-quadrokopter-qc-800se-kit",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "wildkamera-wk-30-hd-100108",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "bluetooth-kopfhorer-bth-4",
-    "category": "kopfhoerer"
-},
-{
-    "model": "rotorblatter-fur-quadrokopter-qc-800se-kit",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "vorderreifen-fur-den-e-scooter-streetone-100569",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "vorderreifen-fur-den-e-scooter-streetone-100569",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ferngesteuertes-auto-rcc-1a-100829",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "ferngesteuertes-auto-rcc-1a-100829",
-    "category": "vendors?q=Maginon"
-},
-{
-    "model": "wildkamera-wk-7-hd-100741",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-7-hd-100741",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-4-hdw-profi-set-100581",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-4-hdw-profi-set-100581",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-6-hdw-wifi-100701",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-6-hdw-wifi-100701",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-6-hd-100721",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-6-hd-100721",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-30-hd-100108",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-30-hd-100108",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Wollten%20Sie%20schon%20immer%20den%20Rehbock%20auf%20frischer%20Tat%20ertappen,%20der%20heimlich%20Ihre%20Rosen%20anknabbert?...",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-30-hd-100108",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-30-hd-100108",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-30-hd-100108",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Wollten%20Sie%20schon%20immer%20den%20Rehbock%20auf%20frischer%20Tat%20ertappen,%20der%20heimlich%20Ihre%20Rosen%20anknabbert?...",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-30-hd-100108",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-30-hd-100108",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-7-hd-100741",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "bluetooth-kopfhorer-bth-4",
-    "category": "kopfhoerer"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=In%20der%20heutigen%20digitalen%20Zeit,%20in%20der%20Dinge%20wie%20Homeoffice,%20Videokonferenzen%20oder%20auch%20die%20digitale...",
-    "category": "kopfhoerer"
-},
-{
-    "model": "bluetooth-kopfhorer-bth-4",
-    "category": "kopfhoerer"
-},
-{
-    "model": "bluetooth-kopfhorer-bth-4",
-    "category": "kopfhoerer"
-},
-{
-    "model": "bluetooth-kopfhorer-bth-4",
-    "category": "kopfhoerer"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=In%20der%20heutigen%20digitalen%20Zeit,%20in%20der%20Dinge%20wie%20Homeoffice,%20Videokonferenzen%20oder%20auch%20die%20digitale...",
-    "category": "kopfhoerer"
-},
-{
-    "model": "bluetooth-kopfhorer-bth-4",
-    "category": "kopfhoerer"
-},
-{
-    "model": "bluetooth-kopfhorer-bth-4",
-    "category": "kopfhoerer"
-},
-{
-    "model": "bluetooth-kopfhorer-bth-4",
-    "category": "kopfhoerer"
-},
-{
-    "model": "in-ear-kopfhoerer-bik-3plus-100577",
-    "category": "kopfhoerer"
-},
-{
-    "model": "in-ear-kopfhoerer-bik-3plus-100577",
-    "category": "kopfhoerer"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=In%20der%20heutigen%20digitalen%20Zeit,%20in%20der%20Dinge%20wie%20Homeoffice,%20Videokonferenzen%20oder%20auch%20die%20digitale...",
-    "category": "kopfhoerer"
-},
-{
-    "model": "in-ear-kopfhoerer-bik-3plus-100577",
-    "category": "kopfhoerer"
-},
-{
-    "model": "in-ear-kopfhoerer-bik-3plus-100577",
-    "category": "kopfhoerer"
-},
-{
-    "model": "in-ear-kopfhoerer-bik-3plus-100577",
-    "category": "kopfhoerer"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=In%20der%20heutigen%20digitalen%20Zeit,%20in%20der%20Dinge%20wie%20Homeoffice,%20Videokonferenzen%20oder%20auch%20die%20digitale...",
-    "category": "kopfhoerer"
-},
-{
-    "model": "in-ear-kopfhoerer-bik-3plus-100577",
-    "category": "kopfhoerer"
-},
-{
-    "model": "in-ear-kopfhoerer-bik-3plus-100577",
-    "category": "kopfhoerer"
-},
-{
-    "model": "quadrokopter-qc-710se-wifi-100827",
-    "category": "drohnen"
-},
-{
-    "model": "wildkamera-wk-7-hd-100741",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Wollten%20Sie%20schon%20immer%20den%20Rehbock%20auf%20frischer%20Tat%20ertappen,%20der%20heimlich%20Ihre%20Rosen%20anknabbert?...",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-7-hd-100741",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-7-hd-100741",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-7-hd-100741",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Wollten%20Sie%20schon%20immer%20den%20Rehbock%20auf%20frischer%20Tat%20ertappen,%20der%20heimlich%20Ihre%20Rosen%20anknabbert?...",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-7-hd-100741",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-7-hd-100741",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-6-hdw-wifi-100701",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-wk-6-hd-100721",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-4-hdw-profi-set-100581",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-4-hdw-profi-set-100581",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Maginon%20WK%204%20HDW%20Wollten%20Sie%20schon%20immer%20den%20Rehbock%20auf%20frischer%20Tat%20ertappen,%20der...",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-4-hdw-profi-set-100581",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-4-hdw-profi-set-100581",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-4-hdw-profi-set-100581",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Maginon%20WK%204%20HDW%20Wollten%20Sie%20schon%20immer%20den%20Rehbock%20auf%20frischer%20Tat%20ertappen,%20der...",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "wildkamera-4-hdw-profi-set-100581",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "in-ear-kopfhoerer-bik-3plus-100577",
-    "category": "kopfhoerer"
-},
-{
-    "model": "quadrokopter-qc-710se-wifi-100827",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-800-se-wifi-100752",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-800-se-wifi-100752",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-120-gps-100708",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-120-gps-100708",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-90-gps-faltbare-drohne-mit-gps",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-90-gps-faltbare-drohne-mit-gps",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-710se-wifi-100827",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-710se-wifi-100827",
-    "category": "drohnen"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Drohnen%20f%C3%BCr%20den%20privaten%20Einsatz%20werden%20immer%20beliebter%20%E2%80%93%20und%20das%20mit%20gutem%20Grund.%20Denn...",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-710se-wifi-100827",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-710se-wifi-100827",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-710se-wifi-100827",
-    "category": "drohnen"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Drohnen%20f%C3%BCr%20den%20privaten%20Einsatz%20werden%20immer%20beliebter%20%E2%80%93%20und%20das%20mit%20gutem%20Grund.%20Denn...",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-710se-wifi-100827",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-710se-wifi-100827",
-    "category": "drohnen"
-},
-{
-    "model": "wildkamera-4-hdw-profi-set-100581",
-    "category": "fur-wildkameras"
-},
-{
-    "model": "maginon-akku-3er-fur-drohne-100535",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-3er-fur-drohne-100535",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-2er-fur-drohnen-100534",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-2er-fur-drohnen-100534",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-carrying-case-drohne-100536",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-carrying-case-drohne-100536",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-fur-drohnen-100533",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-fur-drohnen-100533",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-707se-wifi-100742",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-707se-wifi-100742",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-800-se-wifi-100752",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-800-se-wifi-100752",
-    "category": "drohnen"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Drohnen%20f%C3%BCr%20den%20privaten%20Einsatz%20werden%20immer%20beliebter%20%E2%80%93%20und%20das%20mit%20gutem%20Grund.%20Denn...",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-800-se-wifi-100752",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-800-se-wifi-100752",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-800-se-wifi-100752",
-    "category": "drohnen"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Drohnen%20f%C3%BCr%20den%20privaten%20Einsatz%20werden%20immer%20beliebter%20%E2%80%93%20und%20das%20mit%20gutem%20Grund.%20Denn...",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-800-se-wifi-100752",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-800-se-wifi-100752",
-    "category": "drohnen"
-},
-{
-    "model": "akku-quadrokopter-qc-800se-100761",
-    "category": "drohnen"
-},
-{
-    "model": "akku-quadrokopter-qc-800se-100761",
-    "category": "drohnen"
-},
-{
-    "model": "rotorblatter-fur-quadrokopter-qc-800se-kit",
-    "category": "drohnen"
-},
-{
-    "model": "rotorblatter-fur-quadrokopter-qc-800se-kit",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-707se-wifi-100743",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-707se-wifi-100743",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-120-gps-100708",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-120-gps-100708",
-    "category": "drohnen"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Eine%20Drohne%20f%C3%BCr%20eindrucksvolle%20Fotos%20und%20Videos%20Drohnen%20f%C3%BCr%20den%20privaten%20Einsatz%20werden%20immer%20beliebter...",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-120-gps-100708",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-120-gps-100708",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-120-gps-100708",
-    "category": "drohnen"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Eine%20Drohne%20f%C3%BCr%20eindrucksvolle%20Fotos%20und%20Videos%20Drohnen%20f%C3%BCr%20den%20privaten%20Einsatz%20werden%20immer%20beliebter...",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-120-gps-100708",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-120-gps-100708",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-akku-drohne-qc-120-gps-100711",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-akku-drohne-qc-120-gps-100711",
-    "category": "drohnen"
-},
-{
-    "model": "indoor-security-cam-ip-12s-4057",
-    "category": "heimtechnik"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-120-gps-100713",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-120-gps-100713",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-120-gps-100712",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-120-gps-100712",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-90-gps-faltbare-drohne-mit-gps",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-90-gps-faltbare-drohne-mit-gps",
-    "category": "drohnen"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Eine%20Drohne%20f%C3%BCr%20eindrucksvolle%20Fotos%20und%20Videos%20Drohnen%20f%C3%BCr%20den%20privaten%20Einsatz%20werden%20immer%20beliebter...",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-90-gps-faltbare-drohne-mit-gps",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-90-gps-faltbare-drohne-mit-gps",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-90-gps-faltbare-drohne-mit-gps",
-    "category": "drohnen"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Eine%20Drohne%20f%C3%BCr%20eindrucksvolle%20Fotos%20und%20Videos%20Drohnen%20f%C3%BCr%20den%20privaten%20Einsatz%20werden%20immer%20beliebter...",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-90-gps-faltbare-drohne-mit-gps",
-    "category": "drohnen"
-},
-{
-    "model": "quadrokopter-qc-90-gps-faltbare-drohne-mit-gps",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-fur-qc-90-gps-100541",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-fur-qc-90-gps-100541",
-    "category": "drohnen"
-},
-{
-    "model": "fernbedienung-fur-maginon-drohne-qc-90-gps-100543",
-    "category": "drohnen"
-},
-{
-    "model": "fernbedienung-fur-maginon-drohne-qc-90-gps-100543",
-    "category": "drohnen"
-},
-{
-    "model": "indoor-security-cam-ip-12s-4057",
-    "category": "heimtechnik"
-},
-{
-    "model": "set-2x-indoor-uberwachungskamera-ip-12s",
-    "category": "heimtechnik"
-},
-{
-    "model": "set-2x-indoor-uberwachungskamera-ip-12s",
-    "category": "heimtechnik"
-},
-{
-    "model": "set-3x-indoor-uberwachungskamera-ip-12s",
-    "category": "heimtechnik"
-},
-{
-    "model": "set-3x-indoor-uberwachungskamera-ip-12s",
-    "category": "heimtechnik"
-},
-{
-    "model": "security-camera-ip-138-wireless",
-    "category": "heimtechnik"
-},
-{
-    "model": "security-camera-ip-138-wireless",
-    "category": "heimtechnik"
-},
-{
-    "model": "set-2x-outdoor-uberwachungskamera-ip-138-wireless",
-    "category": "heimtechnik"
-},
-{
-    "model": "set-2x-outdoor-uberwachungskamera-ip-138-wireless",
-    "category": "heimtechnik"
+    "category": "b-ware",
+    "links": [
+        "https://downloads.maginon.de/download/drohne-qc-90-gps/?wpdmdl=3591&refresh=6406248f6b7831678124175&ind=1652883470843&filename=DB_QC-90 GPS.pdf",
+        "https://downloads.maginon.de/download/drohne-qc-90-gps/?wpdmdl=3591&refresh=6406248f6b7831678124175&ind=1652883418856&filename=IM_QC-90 GPS.pdf",
+        "https://downloads.maginon.de/download/drohne-qc-90-gps/?wpdmdl=3591&refresh=6406248f6b7831678124175&ind=1637224226465&filename=EG-Konformitätserklärung_QC-90GPS.pdf",
+        "https://downloads.maginon.de/download/drohne-qc-90-gps/?wpdmdl=3591&refresh=6406248f6b7831678124175&ind=1637224226895&filename=EU_Declaration_QC-90GPS_EN.pdf"
+    ]
 },
 {
     "model": "bundle-outdoor-uberwachungskameras-ip-138-wireless",
-    "category": "heimtechnik"
+    "category": "heimtechnik",
+    "links": [
+        "https://downloads.maginon.de/download/outdoor-ueberwachungskamera-ip-138-wireless/?wpdmdl=3520&refresh=6406248f714a21678124175&ind=1662992988043&filename=BDA Maginon HD-Ueberwachungskamera IP138_online.pdf",
+        "https://downloads.maginon.de/download/outdoor-ueberwachungskamera-ip-138-wireless/?wpdmdl=3520&refresh=6406248f714a21678124175&ind=1605791546146&filename=1605791548wpdm_Konformitaetserklaerung.pdf"
+    ]
 },
 {
-    "model": "bundle-outdoor-uberwachungskameras-ip-138-wireless",
-    "category": "heimtechnik"
+    "model": "b-ware-quadrokopter-qc-120-gps",
+    "category": "b-ware",
+    "links": [
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-120-gps/?wpdmdl=3683&refresh=6406248f7562f1678124175&ind=1652885763810&filename=IM_QC-120 GPS.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-120-gps/?wpdmdl=3683&refresh=6406248f7562f1678124175&ind=1652885794909&filename=DB_QC-120_GPS.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-120-gps/?wpdmdl=3683&refresh=6406248f7562f1678124175&ind=1674140091738&filename=1674140090wpdm_EG-Konformitätserklärung_QC-120GPS.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-120-gps/?wpdmdl=3683&refresh=6406248f7562f1678124175&ind=1674140092249&filename=EU-Declaration_QC-120GPS_EN.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-120-gps/?wpdmdl=3683&refresh=6406248f7562f1678124175&ind=1674140094630&filename=EU-Declaration_QC-120GPS_SI.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-120-gps/?wpdmdl=3683&refresh=6406248f7562f1678124175&ind=1674140094097&filename=EU-Declaration_QC-120GPS_IT.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-120-gps/?wpdmdl=3683&refresh=6406248f7562f1678124175&ind=1674140093380&filename=EU-Declaration_QC-120GPS_HU.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-120-gps/?wpdmdl=3683&refresh=6406248f7562f1678124175&ind=1674140092731&filename=EU-Declaration_QC-120GPS_FR.pdf"
+    ]
 },
 {
     "model": "aroma-diffusor-ad-300",
-    "category": "heimtechnik"
+    "category": "vendors?q=Maginon",
+    "links": [
+        "https://downloads.maginon.de/download/aroma-diffuser-ad-300/?wpdmdl=3788&refresh=6406248f4ef1f1678124175&ind=1673514392208&filename=1673514392wpdm_Maginon_IM_AD-300_OS-DE_A5_01-2023_v1.00_230822_os.pdf",
+        "https://downloads.maginon.de/download/aroma-diffuser-ad-300/?wpdmdl=3788&refresh=6406248f4ef1f1678124175&ind=1673513853059&filename=DB_supra_AD-300_Aroma-Diffuser_v1.01.pdf",
+        "https://downloads.maginon.de/download/aroma-diffuser-ad-300/?wpdmdl=3788&refresh=6406248f4ef1f1678124175&ind=1663334098773&filename=EG-Konformitätserklärung_AD-300.pdf",
+        "https://downloads.maginon.de/download/aroma-diffuser-ad-300/?wpdmdl=3788&refresh=6406248f4ef1f1678124175&ind=1663334099742&filename=EU_Declaration_AD-300_EN.pdf",
+        "https://downloads.maginon.de/download/aroma-diffuser-ad-300/?wpdmdl=3788&refresh=6406248f4ef1f1678124175&ind=1663334101451&filename=EU_Declaration_AD-300_NL.pdf",
+        "https://downloads.maginon.de/download/aroma-diffuser-ad-300/?wpdmdl=3788&refresh=6406248f4ef1f1678124175&ind=1663334100872&filename=EU_Declaration_AD-300_PT.pdf",
+        "https://downloads.maginon.de/download/aroma-diffuser-ad-300/?wpdmdl=3788&refresh=6406248f4ef1f1678124175&ind=1663334100351&filename=EU_Declaration_AD-300_FR.pdf",
+        "https://downloads.maginon.de/download/aroma-diffuser-ad-300/?wpdmdl=3788&refresh=6406248f4ef1f1678124175&ind=1663334099245&filename=EU_Declaration_AD-300_DK.pdf"
+    ]
 },
 {
-    "model": "aroma-diffusor-ad-300",
-    "category": "heimtechnik"
+    "model": "wildkamera-wk-6-hdw-wifi-100701",
+    "category": "fur-wildkameras",
+    "links": [
+        "https://downloads.maginon.de/download/wildkamera-wk-6-hdw/?wpdmdl=3652&refresh=64062490793ca1678124176&ind=1644412203552&filename=IM_WK-6HDW_A6_OS_v1.0_181121_ohne_Schnittmarken.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-6-hdw/?wpdmdl=3652&refresh=64062490793ca1678124176&ind=1644412191470&filename=DB_supra_WK 6 HDW_Wildkamera.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-6-hdw/?wpdmdl=3652&refresh=64062490793ca1678124176&ind=1623144700458&filename=EG-Konformitätserklärung_WK-6HDW.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-6-hdw/?wpdmdl=3652&refresh=64062490793ca1678124176&ind=1623144701354&filename=EU_declaration_WK-6HDW_EN.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-6-hdw/?wpdmdl=3652&refresh=64062490793ca1678124176&ind=1623144702788&filename=EU_declaration_WK-6HDW_IT.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-6-hdw/?wpdmdl=3652&refresh=64062490793ca1678124176&ind=1623144702338&filename=EU_declaration_WK-6HDW_HU.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-6-hdw/?wpdmdl=3652&refresh=64062490793ca1678124176&ind=1623144701823&filename=EU_declaration_WK-6HDW_FR.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-6-hdw/?wpdmdl=3652&refresh=64062490793ca1678124176&ind=1623144700913&filename=EU_declaration_WK-6HDW_DK.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-6-hdw/?wpdmdl=3652&refresh=64062490793ca1678124176&ind=1623144699990&filename=EU_declaration_WK-6HDW_Sl.pdf"
+    ]
+},
+{
+    "model": "set-3x-indoor-uberwachungskamera-ip-12s",
+    "category": "heimtechnik",
+    "links": [
+        "https://downloads.maginon.de/download/indoor-ueberwachungskamera-ip-12s/?wpdmdl=3738&refresh=64062490218741678124176&ind=1644415742774&filename=BDA-Maginon-Indoor-Camera-IP-12s_ONLINE.pdf",
+        "https://downloads.maginon.de/download/indoor-ueberwachungskamera-ip-12s/?wpdmdl=3738&refresh=64062490218741678124176&ind=1644415788754&filename=Dblatt_Maginon-Indoor-Camera-IP-12s_DE.pdf",
+        "https://downloads.maginon.de/download/indoor-ueberwachungskamera-ip-12s/?wpdmdl=3738&refresh=64062490218741678124176&ind=1644415787116&filename=Dblatt_Maginon Indoor Camera IP 12s_EN.pdf",
+        "https://downloads.maginon.de/download/indoor-ueberwachungskamera-ip-12s/?wpdmdl=3738&refresh=64062490218741678124176&ind=1644415849178&filename=EG-Konformitätserklärung_IP-12s.pdf",
+        "https://downloads.maginon.de/download/indoor-ueberwachungskamera-ip-12s/?wpdmdl=3738&refresh=64062490218741678124176&ind=1644415849883&filename=EU_Declaration_IP-12s_EN.pdf"
+    ]
+},
+{
+    "model": "quadrokopter-qc-710se-wifi-100827",
+    "category": "drohnen",
+    "links": [
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-710se/?wpdmdl=3766&refresh=640624901d0951678124176&ind=1669365577125&filename=1669365577wpdm_Maginon_IM_QC-710SE WiFi_A6_Online_Shop_OS.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-710se/?wpdmdl=3766&refresh=640624901d0951678124176&ind=1669365557649&filename=1669365557wpdm_Maginon_WC-OS_QC-710SE_WiFi_A6_Online_Shop_OS.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-710se/?wpdmdl=3766&refresh=640624901d0951678124176&ind=1669365649201&filename=1669365649wpdm_DB_Maginon_QC-710SE_WiFi_Quadrokopter_Online_Shop.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-710se/?wpdmdl=3766&refresh=640624901d0951678124176&ind=1660138045821&filename=EG-Konformitätserklärung_QC-710SE.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-710se/?wpdmdl=3766&refresh=640624901d0951678124176&ind=1660138043574&filename=EU_Declaration_QC-710SE_EN.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-710se/?wpdmdl=3766&refresh=640624901d0951678124176&ind=1670514474283&filename=EU_Declaration_QC-710SE_FR.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-710se/?wpdmdl=3766&refresh=640624901d0951678124176&ind=1660138045345&filename=EU_Declaration_QC-710SE_PL.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-710se/?wpdmdl=3766&refresh=640624901d0951678124176&ind=1660138044898&filename=EU_Declaration_QC-710SE_PT.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-710se/?wpdmdl=3766&refresh=640624901d0951678124176&ind=1660138044426&filename=EU_Declaration_QC-710SE_NL.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-710se/?wpdmdl=3766&refresh=640624901d0951678124176&ind=1660138043991&filename=EU_Declaration_QC-710SE_ES.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-710se/?wpdmdl=3766&refresh=640624901d0951678124176&ind=1670514474732&filename=EU_Declaration_QC-710SE_Sl.pdf",
+        "https://downloads.maginon.de/download/drohne-quadrokopter-qc-710se/?wpdmdl=3766&refresh=640624901d0951678124176&ind=1670514473850&filename=EU_Declaration_QC-710SE_DK.pdf"
+    ]
+},
+{
+    "model": "wildkamera-wk-6-hd-100721",
+    "category": "fur-wildkameras",
+    "links": [
+        "https://downloads.maginon.de/en/download/wildlife-camera-wk-6-hd/?wpdmdl=3660&refresh=640624908df701678124176&ind=1628676315931&filename=1628676316wpdm_IM_WK-6HD_A6_DE.pdf",
+        "https://downloads.maginon.de/en/download/wildlife-camera-wk-6-hd/?wpdmdl=3660&refresh=640624908df701678124176&ind=1628676321527&filename=1628676321wpdm_DB_supra_WK-6_HD_Wildkamera_online_Shop.pdf",
+        "https://downloads.maginon.de/en/download/wildlife-camera-wk-6-hd/?wpdmdl=3660&refresh=640624908df701678124176&ind=1628676718197&filename=1628676718wpdm_EG-Konformitätserklärung_WK-6HD.pdf",
+        "https://downloads.maginon.de/en/download/wildlife-camera-wk-6-hd/?wpdmdl=3660&refresh=640624908df701678124176&ind=1625487578449&filename=1625487578wpdm_EU_Declaration_WK-6HD_EN.pdf",
+        "https://downloads.maginon.de/en/download/wildlife-camera-wk-6-hd/?wpdmdl=3660&refresh=640624908df701678124176&ind=1625487577985&filename=1625487578wpdm_UCKA_Declaration_WK-6HD_UK.pdf"
+    ]
+},
+{
+    "model": "plattenspieler-hs-t08",
+    "category": "sale",
+    "links": [
+        "https://downloads.maginon.de/download/plattenspieler-hs-t08/?wpdmdl=3577&refresh=6406249081ed51678124176&ind=1607000909413&filename=Bedienungsanleitung_EN.pdf",
+        "https://downloads.maginon.de/download/plattenspieler-hs-t08/?wpdmdl=3577&refresh=6406249081ed51678124176&ind=1607000905353&filename=Datenblatt_DE_EN.pdf",
+        "https://downloads.maginon.de/download/plattenspieler-hs-t08/?wpdmdl=3577&refresh=6406249081ed51678124176&ind=1660139023200&filename=1660139023wpdm_EG-Konformitätserklärung_QC-710SE.pdf",
+        "https://downloads.maginon.de/download/plattenspieler-hs-t08/?wpdmdl=3577&refresh=6406249081ed51678124176&ind=1660139023623&filename=1660139023wpdm_EU_Declaration_QC-710SE_EN.pdf",
+        "https://downloads.maginon.de/download/plattenspieler-hs-t08/?wpdmdl=3577&refresh=6406249081ed51678124176&ind=1660139025241&filename=1660139025wpdm_EU_Declaration_QC-710SE_PT.pdf",
+        "https://downloads.maginon.de/download/plattenspieler-hs-t08/?wpdmdl=3577&refresh=6406249081ed51678124176&ind=1660139024822&filename=1660139025wpdm_EU_Declaration_QC-710SE_PL.pdf",
+        "https://downloads.maginon.de/download/plattenspieler-hs-t08/?wpdmdl=3577&refresh=6406249081ed51678124176&ind=1660139024423&filename=1660139024wpdm_EU_Declaration_QC-710SE_NL.pdf",
+        "https://downloads.maginon.de/download/plattenspieler-hs-t08/?wpdmdl=3577&refresh=6406249081ed51678124176&ind=1660139024008&filename=1660139024wpdm_EU_Declaration_QC-710SE_ES.pdf"
+    ]
+},
+{
+    "model": "wildkamera-wk-7-hd-100741",
+    "category": "fur-wildkameras",
+    "links": [
+        "https://downloads.maginon.de/download/wildkamera-wk-7-hd-sp/?wpdmdl=3735&refresh=64062490ad1981678124176&ind=1646219788197&filename=IM_WK-7HD_SP_A6_DE_v1.0_151121_ohne_schnittmarken.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-7-hd-sp/?wpdmdl=3735&refresh=64062490ad1981678124176&ind=1646219764837&filename=DB_supra_WK-7HD SP_Wildkamera mit Solarpanel_v1.3.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-7-hd-sp/?wpdmdl=3735&refresh=64062490ad1981678124176&ind=1643300000532&filename=EG-Konformitätserklärung_WK-7HD SP.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-7-hd-sp/?wpdmdl=3735&refresh=64062490ad1981678124176&ind=1643300000978&filename=EU_Declaration_WK-7HD SP_EN.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-7-hd-sp/?wpdmdl=3735&refresh=64062490ad1981678124176&ind=1643300002344&filename=EU_Declaration_WK-7HD SP_Sl.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-7-hd-sp/?wpdmdl=3735&refresh=64062490ad1981678124176&ind=1643300001894&filename=EU_Declaration_WK-7HD SP_IT.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-7-hd-sp/?wpdmdl=3735&refresh=64062490ad1981678124176&ind=1643300001405&filename=EU_Declaration_WK-7HD SP_FR.pdf"
+    ]
+},
+{
+    "model": "in-ear-kopfhoerer-bik-3plus-100577",
+    "category": "kopfhoerer",
+    "links": [
+        "https://downloads.maginon.de/download/in-ear-kopfhoerer-bik-3plus/?wpdmdl=3745&refresh=64062490de35a1678124176&ind=1659601580931&filename=Maginon_IM_BIK-3PLUS_65x88mm_OS_07-2022_v2.06_030622_Online.pdf",
+        "https://downloads.maginon.de/download/in-ear-kopfhoerer-bik-3plus/?wpdmdl=3745&refresh=64062490de35a1678124176&ind=1659601639701&filename=DB_supra_BIK-3PLUS_In_Ear_Kopfhörer_v1.3.pdf",
+        "https://downloads.maginon.de/download/in-ear-kopfhoerer-bik-3plus/?wpdmdl=3745&refresh=64062490de35a1678124176&ind=1652963605177&filename=EG-Konformitätserklärung_BIK-3PLUS.pdf",
+        "https://downloads.maginon.de/download/in-ear-kopfhoerer-bik-3plus/?wpdmdl=3745&refresh=64062490de35a1678124176&ind=1652963605637&filename=EU_Declaration_BIK-3PLUS_EN.pdf",
+        "https://downloads.maginon.de/download/in-ear-kopfhoerer-bik-3plus/?wpdmdl=3745&refresh=64062490de35a1678124176&ind=1652963604782&filename=EU_Declaration_BIK-3PLUS_Sl.pdf",
+        "https://downloads.maginon.de/download/in-ear-kopfhoerer-bik-3plus/?wpdmdl=3745&refresh=64062490de35a1678124176&ind=1652963604366&filename=EU_Declaration_BIK-3PLUS_PL.pdf",
+        "https://downloads.maginon.de/download/in-ear-kopfhoerer-bik-3plus/?wpdmdl=3745&refresh=64062490de35a1678124176&ind=1652963603892&filename=EU_Declaration_BIK-3PLUS_HU.pdf"
+    ]
+},
+{
+    "model": "wildkamera-4-hdw-profi-set-100581",
+    "category": "fur-wildkameras",
+    "links": [
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1613565334391&filename=Maginon_Wildkamera_WK-4HD_Wifi_Bedienungsanleitung.pdf",
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1613639294316&filename=Maginon_Wildkamera_WK-4HD_Wifi_Datenblatt.pdf",
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1613565380883&filename=IM_DE_SP-1.pdf",
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1655972988819&filename=1655972988wpdm_EG-Konformitätserklärung_WK-4HDW.pdf",
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1655972989236&filename=1655972988wpdm_EU_declaration_WK-4HDW_EN.pdf",
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1613575085995&filename=1613575085wpdm_Konformitaetserklaerung_HU.pdf",
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1613575085553&filename=1613575085wpdm_Konformitaetserklaerung_NL.pdf",
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1613575085065&filename=1613575085wpdm_Konformitaetserklaerung_IT.pdf",
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1613575084614&filename=1613575084wpdm_Konformitaetserklaerung_FR.pdf",
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1613575084174&filename=1613575084wpdm_Konformitaetserklaerung_DK.pdf",
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1613575083736&filename=1613575083wpdm_Konformitaetserklaerung_SI.pdf",
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1655972989705&filename=EG-Konformitätserklärung_SP-1.pdf",
+        "https://downloads.maginon.de/download/wk-4-hdw-profi-set/?wpdmdl=3587&refresh=64062490ac82e1678124176&ind=1655972988350&filename=EU_Declaration_SP-1_EN.pdf"
+    ]
 },
 {
     "model": "hl-90mr-led-100209",
-    "category": "heimtechnik"
+    "category": "sale",
+    "links": [
+        "https://downloads.maginon.de/download/lupe-hl-90-mr-led/?wpdmdl=3027&refresh=64062491763201678124177&ind=1671098471878&filename=Maginon_IM_HL-90 MR-LED_OS_12-2022_v1.00_080922_os.pdf",
+        "https://downloads.maginon.de/download/lupe-hl-90-mr-led/?wpdmdl=3027&refresh=64062491763201678124177&ind=1671098910609&filename=DB_supra_HL-90MR-LED_Lupe mit LED_v1.01.pdf",
+        "https://downloads.maginon.de/download/lupe-hl-90-mr-led/?wpdmdl=3027&refresh=64062491763201678124177&ind=1655973672714&filename=1655973672wpdm_EG-Konformitätserklärung_HL-90-MR-LED.pdf",
+        "https://downloads.maginon.de/download/lupe-hl-90-mr-led/?wpdmdl=3027&refresh=64062491763201678124177&ind=1655973670148&filename=1655973669wpdm_EU_Declaration_HL-90-MR-LED_EN.pdf",
+        "https://downloads.maginon.de/download/lupe-hl-90-mr-led/?wpdmdl=3027&refresh=64062491763201678124177&ind=1665129502264&filename=EU_Declaration_HL-90-MR-LED_HU.pdf",
+        "https://downloads.maginon.de/download/lupe-hl-90-mr-led/?wpdmdl=3027&refresh=64062491763201678124177&ind=1665129502769&filename=EU_Declaration_HL-90-MR-LED_IT.pdf",
+        "https://downloads.maginon.de/download/lupe-hl-90-mr-led/?wpdmdl=3027&refresh=64062491763201678124177&ind=1655973672290&filename=1655973671wpdm_EU_Declaration_HL-90-MR-LED_PL.pdf",
+        "https://downloads.maginon.de/download/lupe-hl-90-mr-led/?wpdmdl=3027&refresh=64062491763201678124177&ind=1655973671886&filename=1655973671wpdm_EU_Declaration_HL-90-MR-LED_PT.pdf",
+        "https://downloads.maginon.de/download/lupe-hl-90-mr-led/?wpdmdl=3027&refresh=64062491763201678124177&ind=1655973671467&filename=1655973671wpdm_EU_Declaration_HL-90-MR-LED_NL.pdf",
+        "https://downloads.maginon.de/download/lupe-hl-90-mr-led/?wpdmdl=3027&refresh=64062491763201678124177&ind=1655973671033&filename=1655973670wpdm_EU_Declaration_HL-90-MR-LED_FR.pdf",
+        "https://downloads.maginon.de/download/lupe-hl-90-mr-led/?wpdmdl=3027&refresh=64062491763201678124177&ind=1655973670614&filename=1655973670wpdm_EU_Declaration_HL-90-MR-LED_ES.pdf",
+        "https://downloads.maginon.de/download/lupe-hl-90-mr-led/?wpdmdl=3027&refresh=64062491763201678124177&ind=1655973669692&filename=1655973669wpdm_EU_Declaration_HL-90-MR-LED_DK.pdf"
+    ]
 },
 {
-    "model": "hl-90mr-led-100209",
-    "category": "heimtechnik"
-},
-{
-    "model": "mini-massage-pistole-mmp-1-100746",
-    "category": "heimtechnik"
-},
-{
-    "model": "mini-massage-pistole-mmp-1-100746",
-    "category": "heimtechnik"
-},
-{
-    "model": "maginon-rotoren-fur-qc-90-gps-100542",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-rotoren-fur-qc-90-gps-100542",
-    "category": "drohnen"
-},
-{
-    "model": "akku-quadrokopter-qc-800se-100761",
-    "category": "drohnen"
-},
-{
-    "model": "akku-quadrokopter-qc-800se-100761",
-    "category": "drohnen"
-},
-{
-    "model": "rotorblatter-fur-quadrokopter-qc-800se-kit",
-    "category": "drohnen"
-},
-{
-    "model": "rotorblatter-fur-quadrokopter-qc-800se-kit",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-707se-wifi-100743",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-707se-wifi-100743",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-akku-drohne-qc-120-gps-100711",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-akku-drohne-qc-120-gps-100711",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-120-gps-100713",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-fernbedienung-drohne-qc-120-gps-100713",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-120-gps-100712",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-120-gps-100712",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-fur-qc-90-gps-100541",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-fur-qc-90-gps-100541",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-rotoren-fur-qc-90-gps-100542",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-rotoren-fur-qc-90-gps-100542",
-    "category": "drohnen"
-},
-{
-    "model": "fernbedienung-fur-maginon-drohne-qc-90-gps-100543",
-    "category": "drohnen"
+    "model": "st-1-ql-sterilizer-fuer-smartphones-100648",
+    "category": "sale",
+    "links": [
+        "https://downloads.maginon.de/download/st-1-qi-2-in-1-smartphone-sterilizer/?wpdmdl=3561&refresh=64062491771a41678124177&ind=1605773827047&filename=DB_supra_ST-1QI_Sterilisator.pdf",
+        "https://downloads.maginon.de/download/st-1-qi-2-in-1-smartphone-sterilizer/?wpdmdl=3561&refresh=64062491771a41678124177&ind=1631627782948&filename=1631627781wpdm_EG-Konformitätserklärung_ST-1QI.pdf",
+        "https://downloads.maginon.de/download/st-1-qi-2-in-1-smartphone-sterilizer/?wpdmdl=3561&refresh=64062491771a41678124177&ind=1631627783331&filename=1631627781wpdm_EU_declaration_ST-1QI_EN.pdf",
+        "https://downloads.maginon.de/download/st-1-qi-2-in-1-smartphone-sterilizer/?wpdmdl=3561&refresh=64062491771a41678124177&ind=1631627783710&filename=1631627782wpdm_EU_declaration_ST-1QI_NL.pdf",
+        "https://downloads.maginon.de/download/st-1-qi-2-in-1-smartphone-sterilizer/?wpdmdl=3561&refresh=64062491771a41678124177&ind=1631627784106&filename=1631627782wpdm_EU_declaration_ST-1QI_PL.pdf",
+        "https://downloads.maginon.de/download/st-1-qi-2-in-1-smartphone-sterilizer/?wpdmdl=3561&refresh=64062491771a41678124177&ind=1609840668139&filename=EU_declaration_ST-1QI_DK.pdf",
+        "https://downloads.maginon.de/download/st-1-qi-2-in-1-smartphone-sterilizer/?wpdmdl=3561&refresh=64062491771a41678124177&ind=1631627784485&filename=EU_Declaration_ST-1QI_PT.pdf",
+        "https://downloads.maginon.de/download/st-1-qi-2-in-1-smartphone-sterilizer/?wpdmdl=3561&refresh=64062491771a41678124177&ind=1609840666578&filename=EU_declaration_ST-1QI_FR.pdf",
+        "https://downloads.maginon.de/download/st-1-qi-2-in-1-smartphone-sterilizer/?wpdmdl=3561&refresh=64062491771a41678124177&ind=1609840666185&filename=EU_declaration_ST-1QI_ES.pdf"
+    ]
 },
 {
     "model": "md-1140-metalldetektor-100384",
-    "category": "heimtechnik"
+    "category": "sale",
+    "links": [
+        "https://downloads.maginon.de/download/metal-detector-md-1140-2/?wpdmdl=3634&refresh=6406249150a9a1678124177&ind=1621936104064&filename=IM_Maginon_MD-1140_A6_OS.pdf",
+        "https://downloads.maginon.de/download/metal-detector-md-1140-2/?wpdmdl=3634&refresh=6406249150a9a1678124177&ind=1621936369349&filename=DB_MD-1140-Metalldetektor.pdf",
+        "https://downloads.maginon.de/download/metal-detector-md-1140-2/?wpdmdl=3634&refresh=6406249150a9a1678124177&ind=1618560801206&filename=EG-Konformitätserklärung_MD-1140.pdf",
+        "https://downloads.maginon.de/download/metal-detector-md-1140-2/?wpdmdl=3634&refresh=6406249150a9a1678124177&ind=1618560745089&filename=EU_declaration_MD-1140_EN.pdf",
+        "https://downloads.maginon.de/download/metal-detector-md-1140-2/?wpdmdl=3634&refresh=6406249150a9a1678124177&ind=1618560745516&filename=EU_declaration_MD-1140_ES.pdf",
+        "https://downloads.maginon.de/download/metal-detector-md-1140-2/?wpdmdl=3634&refresh=6406249150a9a1678124177&ind=1618560744648&filename=EU_declaration_MD-1140_DK.pdf",
+        "https://downloads.maginon.de/download/metal-detector-md-1140-2/?wpdmdl=3634&refresh=6406249150a9a1678124177&ind=1618560744132&filename=EU_declaration_MD-1140_FR.pdf"
+    ]
 },
 {
-    "model": "md-1140-metalldetektor-100384",
-    "category": "heimtechnik"
-},
-{
-    "model": "ferngesteuertes-auto-rcc-1a-100829",
-    "category": "heimtechnik"
-},
-{
-    "model": "ferngesteuertes-auto-rcc-1a-100829",
-    "category": "heimtechnik"
+    "model": "nachtsichtgerat-maginon-nvb-60-100272",
+    "category": "sale",
+    "links": [
+        "https://downloads.maginon.de/en/download/night-vision-device-nvb-60/?wpdmdl=3443&refresh=64062492051bf1678124178&ind=1633351361789&filename=1633351353wpdm_IM_Maginon_NVB 60_A6_Home_Delivery v1.1_200421_ohne_Schnittmarken.pdf",
+        "https://downloads.maginon.de/en/download/night-vision-device-nvb-60/?wpdmdl=3443&refresh=64062492051bf1678124178&ind=1633351460763&filename=1633351452wpdm_DB_NVB 60_Digitales Nachtsichtgerät_v1.0.pdf",
+        "https://downloads.maginon.de/en/download/night-vision-device-nvb-60/?wpdmdl=3443&refresh=64062492051bf1678124178&ind=1633351493021&filename=1633351484wpdm_EU_declaration_NVB-60_EN.pdf",
+        "https://downloads.maginon.de/en/download/night-vision-device-nvb-60/?wpdmdl=3443&refresh=64062492051bf1678124178&ind=1633351492367&filename=1633351483wpdm_EG-Konformitätserklärung_NVB-60.pdf",
+        "https://downloads.maginon.de/en/download/night-vision-device-nvb-60/?wpdmdl=3443&refresh=64062492051bf1678124178&ind=1594372145525&filename=Nachtsichtgeraet_NVB-60_EU-Konformitaetserklaerung_NL.pdf",
+        "https://downloads.maginon.de/en/download/night-vision-device-nvb-60/?wpdmdl=3443&refresh=64062492051bf1678124178&ind=1594372145268&filename=Nachtsichtgeraet_NVB-60_EU-Konformitaetserklaerung_FR.pdf",
+        "https://downloads.maginon.de/en/download/night-vision-device-nvb-60/?wpdmdl=3443&refresh=64062492051bf1678124178&ind=1594372144950&filename=Nachtsichtgeraet_NVB-60_EU-Konformitaetserklaerung_PL.pdf"
+    ]
 },
 {
     "model": "mesh-repeater-mc-1200ac-100709",
-    "category": "heimtechnik"
+    "category": "sale",
+    "links": [
+        "https://downloads.maginon.de/download/mesh-netzwerk-mc-1200ac/?wpdmdl=3677&refresh=640624920b0ea1678124178&ind=1629381504574&filename=IM_MC-1200AC_DE.pdf",
+        "https://downloads.maginon.de/download/mesh-netzwerk-mc-1200ac/?wpdmdl=3677&refresh=640624920b0ea1678124178&ind=1629381574637&filename=DB_supra_MC-1200AC_Mesh_Cube_Wlan-System.pdf",
+        "https://downloads.maginon.de/download/mesh-netzwerk-mc-1200ac/?wpdmdl=3677&refresh=640624920b0ea1678124178&ind=1628603945048&filename=EG-Konformitätserklärung_MC-1200AC.pdf",
+        "https://downloads.maginon.de/download/mesh-netzwerk-mc-1200ac/?wpdmdl=3677&refresh=640624920b0ea1678124178&ind=1628603945452&filename=EU_Declaration_MC-1200AC_EN.pdf"
+    ]
 },
 {
-    "model": "mesh-repeater-mc-1200ac-100709",
-    "category": "heimtechnik"
-},
-{
-    "model": "maginon-wlr-755-ac-100409",
-    "category": "heimtechnik"
-},
-{
-    "model": "maginon-wlr-755-ac-100409",
-    "category": "heimtechnik"
-},
-{
-    "model": "ruckfahrkamera-rc-300ws-100662",
-    "category": "heimtechnik"
-},
-{
-    "model": "ruckfahrkamera-rc-300ws-100662",
-    "category": "heimtechnik"
-},
-{
-    "model": "ruckfahrkamera-rc-300ws-100662",
-    "category": "heimtechnik"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Von%20nun%20an%20geh%C3%B6ren%20Kratzer%20und%20Schrammen%20der%20Vergangenheit%20an.%20Mit%20Ihrer%20neuen%20R%C3%BCckfahrkamera%20RC-300WS...",
-    "category": "heimtechnik"
-},
-{
-    "model": "ruckfahrkamera-rc-300ws-100662",
-    "category": "heimtechnik"
-},
-{
-    "model": "ruckfahrkamera-rc-300ws-100662",
-    "category": "heimtechnik"
-},
-{
-    "model": "ruckfahrkamera-rc-300ws-100662",
-    "category": "heimtechnik"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Von%20nun%20an%20geh%C3%B6ren%20Kratzer%20und%20Schrammen%20der%20Vergangenheit%20an.%20Mit%20Ihrer%20neuen%20R%C3%BCckfahrkamera%20RC-300WS...",
-    "category": "heimtechnik"
-},
-{
-    "model": "ruckfahrkamera-rc-300ws-100662",
-    "category": "heimtechnik"
-},
-{
-    "model": "ruckfahrkamera-rc-300ws-100662",
-    "category": "heimtechnik"
-},
-{
-    "model": "fernbedienung-fur-maginon-drohne-qc-90-gps-100543",
-    "category": "drohnen"
-},
-{
-    "model": "fernbedienung-zu-maginon-qc-70-se-wifi",
-    "category": "drohnen"
-},
-{
-    "model": "fernbedienung-zu-maginon-qc-70-se-wifi",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-3er-fur-drohne-100535",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-3er-fur-drohne-100535",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-2er-fur-drohnen-100534",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-2er-fur-drohnen-100534",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-fur-drohnen-100533",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-akku-fur-drohnen-100533",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-carrying-case-drohne-100536",
-    "category": "drohnen"
-},
-{
-    "model": "maginon-carrying-case-drohne-100536",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-707se-wifi-100742",
-    "category": "drohnen"
-},
-{
-    "model": "ersatz-rotorblatter-drohne-qc-707se-wifi-100742",
-    "category": "drohnen"
-},
-{
-    "model": "aroma-diffusor-ad-300",
-    "category": "heimtechnik"
-},
-{
-    "model": "aroma-diffusor-ad-300",
-    "category": "heimtechnik"
-},
-{
-    "model": "aroma-diffusor-ad-300",
-    "category": "heimtechnik"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=M%C3%B6chten%20Sie%20Ihrer%20Gesundheit%20und%20Ihrem%20Wohlbefinden%20etwas%20Gutes%20tun?%20Dann%20ist%20der%20Aroma-Diffuser%20AD-300...",
-    "category": "heimtechnik"
-},
-{
-    "model": "aroma-diffusor-ad-300",
-    "category": "heimtechnik"
-},
-{
-    "model": "aroma-diffusor-ad-300",
-    "category": "heimtechnik"
-},
-{
-    "model": "aroma-diffusor-ad-300",
-    "category": "heimtechnik"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=M%C3%B6chten%20Sie%20Ihrer%20Gesundheit%20und%20Ihrem%20Wohlbefinden%20etwas%20Gutes%20tun?%20Dann%20ist%20der%20Aroma-Diffuser%20AD-300...",
-    "category": "heimtechnik"
-},
-{
-    "model": "aroma-diffusor-ad-300",
-    "category": "heimtechnik"
-},
-{
-    "model": "aroma-diffusor-ad-300",
-    "category": "heimtechnik"
+    "model": "wildkamera-wk-30-hd-100108",
+    "category": "sale",
+    "links": [
+        "https://downloads.maginon.de/download/wildkamera-wk-30-hd/?wpdmdl=3779&refresh=64062491c4fd51678124177&ind=1662120447635&filename=IM_WK-30_HD_A6-DE.pdf",
+        "https://downloads.maginon.de/download/wildkamera-wk-30-hd/?wpdmdl=3779&refresh=64062491c4fd51678124177&ind=1662120417676&filename=DB_Maginon_for_life_WK 30 HD_Wildkamera.pdf"
+    ]
 },
 {
     "model": "mini-massage-pistole-mmp-1-100746",
-    "category": "heimtechnik"
+    "category": "sale",
+    "links": [
+        "https://downloads.maginon.de/download/mini-massage-pistole-mmp-1/?wpdmdl=3719&refresh=64062491aea811678124177&ind=1646820792180&filename=IM_MMP-1_A6_OnlineShop.pdf",
+        "https://downloads.maginon.de/download/mini-massage-pistole-mmp-1/?wpdmdl=3719&refresh=64062491aea811678124177&ind=1646820741230&filename=DB_Maginon_MMP-1_Mini_Massage_Pistole.pdf",
+        "https://downloads.maginon.de/download/mini-massage-pistole-mmp-1/?wpdmdl=3719&refresh=64062491aea811678124177&ind=1639588120188&filename=EG-Konformitätserklärung_MMP-1.pdf",
+        "https://downloads.maginon.de/download/mini-massage-pistole-mmp-1/?wpdmdl=3719&refresh=64062491aea811678124177&ind=1639588120600&filename=EU_Declaration_MMP-1_EN.pdf"
+    ]
 },
 {
-    "model": "mini-massage-pistole-mmp-1-100746",
-    "category": "heimtechnik"
+    "model": "bluetooth-kopfhorer-bth-4",
+    "category": "vendors?q=Maginon",
+    "links": [
+        "https://downloads.maginon.de/download/bluetooth-kopfhoerer-bth-4/?wpdmdl=3769&refresh=64062492697fb1678124178&ind=1667314414719&filename=IM_BTH-4_105x128mm_OS_v1.02_200722_os.pdf",
+        "https://downloads.maginon.de/download/bluetooth-kopfhoerer-bth-4/?wpdmdl=3769&refresh=64062492697fb1678124178&ind=1667314462678&filename=DB_supra_BTH-4_Stereo Kopfhörer mit Bluetooth_v1.05.pdf",
+        "https://downloads.maginon.de/download/bluetooth-kopfhoerer-bth-4/?wpdmdl=3769&refresh=64062492697fb1678124178&ind=1660223421063&filename=EG-Konformitätserklärung_BTH-4.pdf",
+        "https://downloads.maginon.de/download/bluetooth-kopfhoerer-bth-4/?wpdmdl=3769&refresh=64062492697fb1678124178&ind=1660223418366&filename=EU_Declaration_BTH-4_EN.pdf",
+        "https://downloads.maginon.de/download/bluetooth-kopfhoerer-bth-4/?wpdmdl=3769&refresh=64062492697fb1678124178&ind=1660223421546&filename=EU_Declaration_BTH-4_DK.pdf",
+        "https://downloads.maginon.de/download/bluetooth-kopfhoerer-bth-4/?wpdmdl=3769&refresh=64062492697fb1678124178&ind=1660223420594&filename=EU_Declaration_BTH-4_PT.pdf",
+        "https://downloads.maginon.de/download/bluetooth-kopfhoerer-bth-4/?wpdmdl=3769&refresh=64062492697fb1678124178&ind=1660223420135&filename=EU_Declaration_BTH-4_NL.pdf",
+        "https://downloads.maginon.de/download/bluetooth-kopfhoerer-bth-4/?wpdmdl=3769&refresh=64062492697fb1678124178&ind=1660223419664&filename=EU_Declaration_BTH-4_FR.pdf",
+        "https://downloads.maginon.de/download/bluetooth-kopfhoerer-bth-4/?wpdmdl=3769&refresh=64062492697fb1678124178&ind=1660223419205&filename=EU_Declaration_BTH-4_ES.pdf"
+    ]
 },
 {
-    "model": "mini-massage-pistole-mmp-1-100746",
-    "category": "heimtechnik"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Unser%20K%C3%B6rper%20muss%20t%C3%A4glich%20einiges%20f%C3%BCr%20uns%20leisten.%20Er%20bringt%20uns%20durch%20den%20stressigen%20Alltag,...",
-    "category": "heimtechnik"
-},
-{
-    "model": "mini-massage-pistole-mmp-1-100746",
-    "category": "heimtechnik"
-},
-{
-    "model": "mini-massage-pistole-mmp-1-100746",
-    "category": "heimtechnik"
-},
-{
-    "model": "mini-massage-pistole-mmp-1-100746",
-    "category": "heimtechnik"
-},
-{
-    "model": "no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x.gif&description=Unser%20K%C3%B6rper%20muss%20t%C3%A4glich%20einiges%20f%C3%BCr%20uns%20leisten.%20Er%20bringt%20uns%20durch%20den%20stressigen%20Alltag,...",
-    "category": "heimtechnik"
-},
-{
-    "model": "mini-massage-pistole-mmp-1-100746",
-    "category": "heimtechnik"
-},
-{
-    "model": "mini-massage-pistole-mmp-1-100746",
-    "category": "heimtechnik"
-},
-{
-    "model": "security-camera-ip-138-wireless",
-    "category": "heimtechnik"
-},
-{
-    "model": "security-camera-ip-138-wireless",
-    "category": "heimtechnik"
-},
-{
-    "model": "indoor-security-cam-ip-12s-4057",
-    "category": "heimtechnik"
-},
-{
-    "model": "indoor-security-cam-ip-12s-4057",
-    "category": "heimtechnik"
+    "model": "digitales-mikroskop-dm-300-100739",
+    "category": "vendors?q=Maginon",
+    "links": [
+        "https://downloads.maginon.de/download/digitales-mikroskop-dm-300/?wpdmdl=3689&refresh=640624928292c1678124178&ind=1639578134804&filename=IM_DM-300_A6_Home_Delivery_v1.0_260821-ohneSchnittmarken.pdf",
+        "https://downloads.maginon.de/download/digitales-mikroskop-dm-300/?wpdmdl=3689&refresh=640624928292c1678124178&ind=1631199259016&filename=EG-Konformitätserklärung_DM-300.pdf",
+        "https://downloads.maginon.de/download/digitales-mikroskop-dm-300/?wpdmdl=3689&refresh=640624928292c1678124178&ind=1631199259532&filename=EU_Declaration_DM-300_EN.pdf",
+        "https://downloads.maginon.de/download/digitales-mikroskop-dm-300/?wpdmdl=3689&refresh=640624928292c1678124178&ind=1639577997422&filename=DB_Maginon_DM-300_Digitales Mikroskop.pdf"
+    ]
 }
 ]
